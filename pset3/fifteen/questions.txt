@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. Dimensions can be 3x3 to 9x9 inclusive.
+1. Two-dimensional array of integers
+2. greet()
+3. init, draw, move, won
